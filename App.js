@@ -119,11 +119,7 @@ export default class App extends React.Component {
 
     return (
       <View style={styles.container}>
-        <Echarts
-          option={option}
-          // height={this.state.screen.height - 56 - 56 - 24}
-          // width={this.state.screen.width}
-        />
+        <Echarts option={option} />
       </View>
     );
   }

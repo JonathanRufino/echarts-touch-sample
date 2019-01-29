@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Example project to demonstrate touch problem when using echarts on mobile",
+    "githubUrl": "https://github.com/JonathanRufino/echarts-touch-sample"
   }
 }
